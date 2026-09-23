@@ -28,7 +28,7 @@ class _SetupScreenState extends State<SetupScreen> {
   }
 
   void startMatch() {
-    // Check fields
+    
     if (teamController.text.trim().isEmpty ||
         batsman1Controller.text.trim().isEmpty ||
         batsman2Controller.text.trim().isEmpty ||
