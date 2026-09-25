@@ -43,7 +43,7 @@ class _SetupScreenState extends State<SetupScreen> {
       return;
     }
 
-    // Navigate to scoring screen
+    
     Navigator.push(
       context,
       MaterialPageRoute(
